@@ -45,7 +45,7 @@ const Hero = () => {
               lineHeight: '1.2'
             }}
           >
-            Do Hardware ao Software.
+            Do Problema à Solução.
             <br />
             Da Ideia à Escala.
           </motion.h2>
@@ -63,7 +63,7 @@ const Hero = () => {
               margin: '0 auto var(--space-2xl)'
             }}
           >
-            Desenvolvimento Full Stack, Inteligência Artificial e Consultoria de Infraestrutura.
+            Concedendo privilégios de superusuário ao seu negócio através de infraestrutura resiliente e software inteligente.
           </motion.p>
 
           {/* CTA Buttons */}
