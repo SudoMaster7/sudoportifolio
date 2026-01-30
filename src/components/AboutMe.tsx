@@ -28,21 +28,32 @@ const AboutMe = () => {
                         }}>
                             Leonardo Brito (SUDO)
                         </h3>
+
                         <p style={{
                             color: 'var(--color-text-secondary)',
                             lineHeight: '1.8',
-                            marginBottom: 'var(--space-lg)',
+                            marginBottom: 'var(--space-md)',
                             fontSize: '1.125rem'
                         }}>
-                            Minha jornada começou desmontando computadores antigos para entender como funcionavam. Hoje, construo arquiteturas de software complexas que escalam negócios.
+                            <strong>Transformando Complexidade em Eficiência.</strong> Sou um desenvolvedor focado em construir sistemas que não apenas funcionam, mas escalam. Com base sólida em Ciência da Computação e especialização em Redes, transito entre a robustez da infraestrutura e a agilidade do desenvolvimento moderno.
                         </p>
+
+                        <p style={{
+                            color: 'var(--color-text-secondary)',
+                            lineHeight: '1.8',
+                            marginBottom: 'var(--space-md)',
+                            fontSize: '1.125rem'
+                        }}>
+                            Atualmente, atuo como <strong>Técnico Especialista em Redes na FUNDEC</strong>, gerenciando infraestrutura crítica, e como <strong>Desenvolvedor na Fuzzy Lab</strong>, criando soluções com IA e WebRTC.
+                        </p>
+
                         <p style={{
                             color: 'var(--color-text-secondary)',
                             lineHeight: '1.8',
                             marginBottom: 'var(--space-xl)',
                             fontSize: '1.125rem'
                         }}>
-                            Acredito que tecnologia sem propósito é apenas custo. Meu foco é unir <strong style={{ color: 'var(--color-accent-purple-light)' }}>Engenharia Robusta</strong> com <strong style={{ color: 'var(--color-accent-green-light)' }}>Estratégia de Negócios</strong> para entregar não apenas software, mas resultados mensuráveis.
+                            Minha missão com a SUDO é clara: garantir privilégios de "superusuário" para o seu negócio, entregando software inteligente e infraestrutura resiliente.
                         </p>
 
                         <div style={{ display: 'flex', gap: 'var(--space-xl)' }}>
